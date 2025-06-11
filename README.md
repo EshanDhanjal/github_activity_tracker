@@ -18,13 +18,13 @@ python github_activity.py <username>
 
 Example:
 
-python github_activity.py kamranahmedse
+python github_activity.py EshanDhanjal
 
 Sample output:
 
-- Pushed 3 commit(s) to kamranahmedse/developer-roadmap
-- Opened a new issue in kamranahmedse/developer-roadmap
-- Starred kamranahmedse/developer-roadmap
+- Pushed 3 commit(s) to EshanDhanjal/developer-roadmap
+- Opened a new issue in EshanDhanjal/developer-roadmap
+- Starred EshanDhanjal/developer-roadmap
 
 Requirements
 
