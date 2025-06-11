@@ -43,15 +43,3 @@ Notes
 License
 
 This project is licensed under the MIT License.
-
-
----
-
-# How to add README.md and push to GitHub
-
-1. In your project folder (`C:\Users\eshan\github_activity`), create the README file:
-
-You can create it directly in PowerShell:
-
-```powershell
-notepad README.md
